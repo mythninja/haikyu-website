@@ -1,0 +1,11 @@
+/*CSS is like special HTML but you can make backgrounds, animations*/
+/*if you want to change font-color or making a background you first have to put like a body, head, div and etc. the you put curly brakets, then press enter. then look at the examples below*/
+body {
+  background-color:#66D9EF;
+}
+h1   {
+  color:red;
+}
+li {
+  font-family:arial;
+}
